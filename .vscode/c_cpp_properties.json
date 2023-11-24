@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/baramee/Documents/PlatformIO/Projects/ardoino-iot/include",
-                "/home/baramee/Documents/PlatformIO/Projects/ardoino-iot/src",
+                "/home/baramee/Documents/PlatformIO/Projects/arduino-iot/include",
+                "/home/baramee/Documents/PlatformIO/Projects/arduino-iot/src",
                 "/home/baramee/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/home/baramee/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/home/baramee/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -238,8 +238,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/baramee/Documents/PlatformIO/Projects/ardoino-iot/include",
-                    "/home/baramee/Documents/PlatformIO/Projects/ardoino-iot/src",
+                    "/home/baramee/Documents/PlatformIO/Projects/arduino-iot/include",
+                    "/home/baramee/Documents/PlatformIO/Projects/arduino-iot/src",
                     "/home/baramee/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/home/baramee/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/home/baramee/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
